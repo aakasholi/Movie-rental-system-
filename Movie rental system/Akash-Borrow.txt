@@ -1,0 +1,10 @@
+Customer Name:Akash
+Movie Id:3
+Quantity:3
+Price:12.0
+DateTime:2019-05-15 19:42:54.668011
+Customer Name:Akash
+Movie Id:1
+Quantity:2
+Price:10.0
+DateTime:2019-05-15 19:43:22.127420

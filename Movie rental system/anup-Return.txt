@@ -1,0 +1,9 @@
+Customer name:anup
+MovieID:3
+Movie Name:The Revenant
+Quantity5
+Fine Status:$25/nCustomer name:anup
+MovieID:2
+Movie Name:Lord Of Rings
+Quantity2
+Fine Status:$0/n

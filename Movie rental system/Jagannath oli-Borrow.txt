@@ -1,0 +1,6 @@
+Customer Name:Jagannath oli
+Movie Id:1
+Movie Name:Pulp Fiction
+Quantity:1
+Price:5.0
+DateTime:2019-11-18 20:20:41.952348

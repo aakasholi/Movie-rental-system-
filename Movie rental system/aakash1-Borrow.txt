@@ -1,0 +1,6 @@
+Customer Name:aakash1
+Movie Id:2
+Movie Name:Lord Of Rings
+Quantity:12
+Price:30.0
+DateTime:2019-11-18 20:21:14.411940
